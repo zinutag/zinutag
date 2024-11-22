@@ -1,4 +1,10 @@
-## Hi there 👋
+## 興味
+大学院でBayesian optimizationの研究をしています。
+
+- [Bayesian Optimization of Function Networks](https://proceedings.neurips.cc/paper/2021/hash/792c7b5aae4a79e78aaeda80516ae2ac-Abstract.html)の概説  
+  https://github.com/zinutag/visualization_bofn
+- Batch Bayesian optimizationのサンプルコード  
+  https://github.com/funalab/Next_Conditions_Suggestion_BO
 
 <!--
 **zinutag/zinutag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
