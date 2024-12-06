@@ -1,5 +1,9 @@
 ## 研究成果
-- [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900)
+- パイプライン処理を用いたベイズ的最適化の並列化  
+  [Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource–constrained Conditions](https://arxiv.org/abs/2412.04392)  
+  実装: [https://github.com/funalab/PipeBO](https://github.com/funalab/PipeBO)
+- バッチベイズ的最適化を用いた培養条件の探索  
+  [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900)
 
 ## 興味
 大学院でBayesian optimizationの研究をしています。
