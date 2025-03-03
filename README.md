@@ -3,7 +3,8 @@
   [Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource–constrained Conditions](https://arxiv.org/abs/2412.04392)  
   実装: [https://github.com/funalab/PipeBO](https://github.com/funalab/PipeBO)
 - バッチベイズ的最適化を用いた培養条件の探索  
-  [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900)
+  [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900)  
+  [In vitro骨格筋組織の成熟化を促進する電気刺激条件のベイズ最適化による自律的探索](https://www.jstage.jst.go.jp/article/ieejsmas/145/3/145_33/_article/-char/ja/)
 
 ## 経歴
 大学院でBayesian optimizationの研究をしていました。
