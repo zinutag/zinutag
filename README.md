@@ -8,7 +8,7 @@
 2025年~: IT企業勤めR&D
 
 - 資格
-  - 基本情報技術者
+  - 基本情報技術者・応用情報技術者
 - その他
   - kaggle
     - [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) 銀メダル(69th/2657)
