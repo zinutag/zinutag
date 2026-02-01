@@ -15,8 +15,8 @@
 
 ## 大学院での研究成果
 - パイプライン処理を用いたベイズ的最適化の並列化  
-  [Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource–constrained Conditions](https://arxiv.org/abs/2412.04392)  
+  [Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource–constrained Conditions](https://www.slas-technology.org/article/S2472-6303(26)00009-9/fulltext), _SLAS Tech._, (2026)  
   実装: [https://github.com/funalab/PipeBO](https://github.com/funalab/PipeBO)
 - バッチベイズ的最適化を用いた培養条件の探索  
-  [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900)  
-  [In vitro骨格筋組織の成熟化を促進する電気刺激条件のベイズ最適化による自律的探索](https://www.jstage.jst.go.jp/article/ieejsmas/145/3/145_33/_article/-char/ja/)
+  [Exloring Autonomous Optimal Experimental Conditions for In Vitro Tissue Maturation with Batch Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/10516900), _2023 22nd Transducers_, (2023)  
+  [In vitro骨格筋組織の成熟化を促進する電気刺激条件のベイズ最適化による自律的探索](https://www.jstage.jst.go.jp/article/ieejsmas/145/3/145_33/_article/-char/ja/), _電気学会論文誌E_, (2025)
