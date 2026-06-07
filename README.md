@@ -10,9 +10,9 @@
 - 資格
   - 基本情報技術者・応用情報技術者
 - その他
-  - kaggle
-    - [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) 銀メダル(69th/2657)
-    - [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026) 銀メダル(179th/4243)
+  - Kaggle Competitions Expert: [zinutag](https://www.kaggle.com/zinutag)
+    - [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) 銀メダル
+    - [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026) 銀メダル
 
 ## 大学院での研究成果
 - パイプライン処理を用いたベイズ的最適化の並列化  
