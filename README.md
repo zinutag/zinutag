@@ -13,6 +13,7 @@
   - Kaggle Competitions Expert: [zinutag](https://www.kaggle.com/zinutag)
     - [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) 銀メダル
     - [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026) 銀メダル
+![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/zinutag)
 
 ## 大学院での研究成果
 - パイプライン処理を用いたベイズ的最適化の並列化  
