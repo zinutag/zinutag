@@ -10,6 +10,7 @@
 ## 資格など
 - IPA
   - 基本情報技術者・応用情報技術者
+- TOEIC L&R 925 (L 480, R 445), 2026.9
 - Kaggle Competitions Expert: [zinutag](https://www.kaggle.com/zinutag)
   - [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) 銀メダル
   - [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026) 銀メダル
