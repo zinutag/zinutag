@@ -7,6 +7,7 @@
 ## 資格など
 - 応用情報技術者, G検定, 統計検定2級
 - TOEIC L&R 925 (L 480, R 445), 2026.9
+- AWS SAA ~2029年
 - Kaggle Competitions Expert 🥈2: [https://www.kaggle.com/zinutag](https://www.kaggle.com/zinutag)
 
 ## 大学院での研究成果・ドキュメント
